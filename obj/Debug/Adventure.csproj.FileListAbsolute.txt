@@ -1,0 +1,27 @@
+U:\visual studio 2013\Projects\Adventure\Adventure\bin\Debug\Adventure.exe.config
+U:\visual studio 2013\Projects\Adventure\Adventure\bin\Debug\Adventure.exe
+U:\visual studio 2013\Projects\Adventure\Adventure\bin\Debug\Adventure.pdb
+U:\visual studio 2013\Projects\Adventure\Adventure\obj\Debug\Adventure.csprojResolveAssemblyReference.cache
+U:\visual studio 2013\Projects\Adventure\Adventure\obj\Debug\Adventure.exe
+U:\visual studio 2013\Projects\Adventure\Adventure\obj\Debug\Adventure.pdb
+Z:\visual studio 2013\Projects\Adventure\Adventure\bin\Debug\Adventure.exe.config
+Z:\visual studio 2013\Projects\Adventure\Adventure\obj\Debug\Adventure.exe
+Z:\visual studio 2013\Projects\Adventure\Adventure\obj\Debug\Adventure.pdb
+U:\Documents\ECE 264\Project\Adventure\Adventure\Adventure\bin\Debug\Adventure.exe.config
+U:\Documents\ECE 264\Project\Adventure\Adventure\Adventure\obj\Debug\Adventure.exe
+U:\Documents\ECE 264\Project\Adventure\Adventure\Adventure\obj\Debug\Adventure.pdb
+U:\Documents\ECE 264\Project\Adventure\Adventure\Adventure\bin\Debug\Adventure.exe
+U:\Documents\ECE 264\Project\Adventure\Adventure\Adventure\bin\Debug\Adventure.pdb
+U:\Documents\ECE 264\Project\Adventure\Adventure\Adventure\obj\Debug\Adventure.csprojResolveAssemblyReference.cache
+S:\Richard\Documents\UMassD\Junior Year\Spring\ECE 264\Project\AdventureBaseVersionFinal\Adventure\Adventure\bin\Debug\Adventure.exe.config
+S:\Richard\Documents\UMassD\Junior Year\Spring\ECE 264\Project\AdventureBaseVersionFinal\Adventure\Adventure\obj\Debug\Adventure.exe
+S:\Richard\Documents\UMassD\Junior Year\Spring\ECE 264\Project\AdventureBaseVersionFinal\Adventure\Adventure\obj\Debug\Adventure.pdb
+S:\Richard\Documents\UMassD\Junior Year\Spring\ECE 264\Project\AdventureBaseVersionFinal\Adventure\Adventure\bin\Debug\Adventure.exe
+S:\Richard\Documents\UMassD\Junior Year\Spring\ECE 264\Project\AdventureBaseVersionFinal\Adventure\Adventure\bin\Debug\Adventure.pdb
+S:\Richard\Documents\UMassD\Junior Year\Spring\ECE 264\Project\AdventureBaseVersionFinal\Adventure\Adventure\obj\Debug\Adventure.csprojResolveAssemblyReference.cache
+L:\Richard\Documents\UMassD\Junior Year\Spring\ECE 264\Adventure Project\AdventureBaseVersionFinal (1)\AdventureBaseVersionFinal\Adventure\Adventure\bin\Debug\Adventure.exe.config
+L:\Richard\Documents\UMassD\Junior Year\Spring\ECE 264\Adventure Project\AdventureBaseVersionFinal (1)\AdventureBaseVersionFinal\Adventure\Adventure\bin\Debug\Adventure.exe
+L:\Richard\Documents\UMassD\Junior Year\Spring\ECE 264\Adventure Project\AdventureBaseVersionFinal (1)\AdventureBaseVersionFinal\Adventure\Adventure\bin\Debug\Adventure.pdb
+L:\Richard\Documents\UMassD\Junior Year\Spring\ECE 264\Adventure Project\AdventureBaseVersionFinal (1)\AdventureBaseVersionFinal\Adventure\Adventure\obj\Debug\Adventure.csprojResolveAssemblyReference.cache
+L:\Richard\Documents\UMassD\Junior Year\Spring\ECE 264\Adventure Project\AdventureBaseVersionFinal (1)\AdventureBaseVersionFinal\Adventure\Adventure\obj\Debug\Adventure.exe
+L:\Richard\Documents\UMassD\Junior Year\Spring\ECE 264\Adventure Project\AdventureBaseVersionFinal (1)\AdventureBaseVersionFinal\Adventure\Adventure\obj\Debug\Adventure.pdb

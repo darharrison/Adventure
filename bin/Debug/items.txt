@@ -1,0 +1,5 @@
+Potion, 45
+Food Ration, 25
+Healing Herb, 30
+Fresh Water, 20
+Mead, 20

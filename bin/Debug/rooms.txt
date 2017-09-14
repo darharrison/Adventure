@@ -1,0 +1,25 @@
+r0, You are in the entrance of the dungeon. The entryway has three wooden doors that are well weathered.
+r1, You reached a dead end. At the end of the cell is a snake. If you don't have a  weapon you'd better turn back!
+r2, You are in an open prison cell. It looks like someone dropped something before they met their demise.
+r3, You are in a huge atrium that contains a swamp on the west side. It shows signs of a fight and it looks like there's a weapon in the middle of the room.
+r4, You reached a dead end. There's nothing of interest in the dark room.
+r5, You are at the far west end of the swamp. There is nothing on the shores that you can use.
+r6, You are in another atrium. An oblong lake is in the middle. A wild boar blocks your way.
+r7, This empty hall has a big door in the middle. It's cracked but you can still move it.
+r8, You reached another prison cell. There's something across the room lit by a hole in the ceiling.
+r9, You are in a small room dominated by a huge tree in the middle. There is a curved horn with a holster on the lowest branch.
+r10, You are in a hallway with a door on the far side and one on the south side. A wolf guards the exits.
+r11, You are in an L shaped room. There are doors on the south and east side but the room itself is barren.
+r12, You are at a peaceful garden. You are alone with your thoughts here.
+r13, You are at a dead end. An eagle guards its nest at the end of the room.
+r14, The wolf was guarding a key in an open chest.
+r15, You are in a hallway. The door at the end has a brass lock on it.
+r16, You are in an atrium. There's a display in the middle with something in it.
+r17, You are in a dark hallway. There is a door at the end.
+r18, You are in a rudimentary laboratory. You looked through all the materials. There is a single potion left.
+r19, You are in an L shaped room. There is a knight in the middle of the room blocking your progress.
+r20, You area at a dead end. There is a golden key on top of a gravestone with no writing on it.
+r21, You are at some sort of mess hall. It is cleared out save for a single food ration.
+r22, You are at an L shaped room. There is a golden lock on the door and arrows on the ground.
+r23, There is a display of an old knight with armor. The armor is rusty. His sword looks sharp though.
+r24, You've been ambushed by a grizzly bear! You can see the exit but it blocks your way!
